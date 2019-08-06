@@ -59,9 +59,9 @@ Python and R package download comparison
 
 
 #### References
-https://r4ds.had.co.nz/
-https://lgatto.github.io/IntroMachineLearningWithR/
-https://topepo.github.io/caret/index.html
-https://daviddalpiaz.github.io/r4sl/
-https://www.tidyverse.org/
+https://r4ds.had.co.nz/ 
+https://lgatto.github.io/IntroMachineLearningWithR/ 
+https://topepo.github.io/caret/index.html 
+https://daviddalpiaz.github.io/r4sl/ 
+https://www.tidyverse.org/ 
 
