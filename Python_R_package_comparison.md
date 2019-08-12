@@ -29,9 +29,8 @@ Python and R package download comparison
 | |xml | xml.etree.ElementTree.parse  | XML| xmlparse|
 |**Data processing** |pandas | apply, map| purrr| map|
 ||pandas | apply, map| plyr| apply functions, e.g., aaply|
-| |pandas | loc, sort_values, aggregate, groupby | dplyr|filter,arrange,select, mutate, summarise,groupby |
+| |pandas | loc, sort_values, aggregate, groupby,merge | dplyr, data.table|filter,arrange,select, mutate, summarise,groupby,join |
 | |pandas | pivot, melt, stack, unstack, groupby| tidyr|gather, spead |
-| |pandas | merge| dplyr|join |
 | |pandas | .| magrittr|%>% |
 | |pandas | | tidyverse|combined packages|
 || datetime| | lubridate, hms| |
