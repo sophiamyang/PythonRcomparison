@@ -31,7 +31,7 @@ Python and R package download comparison
 ||pandas | apply, map| plyr| apply functions, e.g., aaply|
 | |pandas | loc, sort_values, aggregate, groupby | dplyr|filter,arrange,select, mutate, summarise,groupby |
 | |pandas | pivot, melt, stack, unstack, groupby| tidyr|gather, spead |
-| |pandas | merge| plrr|join |
+| |pandas | merge| dplyr|join |
 | |pandas | .| magrittr|%>% |
 | |pandas | | tidyverse|combined packages|
 || datetime| | lubridate, hms| |
