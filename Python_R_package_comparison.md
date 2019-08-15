@@ -57,6 +57,7 @@ Python and R package download comparison
 |**Visualization** |matplotlib, bokeh| | ggplot2, graphics| |
 |**Dashboard**  |panel, voila| | shiny| |
 
+![](https://github.com/sophiamyang/PythonRcomparison/blob/master/figures/dashboard.png)
 
 #### References
 https://r4ds.had.co.nz/ <br />
