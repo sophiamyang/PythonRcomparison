@@ -83,7 +83,7 @@ For creating dashboard, most people use Shiny. Few use Panel and Voila.
 ![](https://github.com/sophiamyang/PythonRcomparison/blob/master/figures/dashboard.png)
 
 ### Conclusion
-Except for creating dashboard, people seem to download more Python packages than R packages for data manipulation, visualization, machine learning, and deep learning. 
+Except for creating dashboard, people seem to download a lot more Python packages than R packages for data manipulation, visualization, machine learning, and deep learning. 
 
 ### References
 https://r4ds.had.co.nz/ <br />
