@@ -60,7 +60,7 @@ Python and R package download comparison
 ### Data
 I retrieved package download data from Conda, PyPI, and Cran from Janurary 2018 to July 2018. Then I combined Conda and PyPI downloads to represent total downloads of Python packages. 
 
-### Result 
+### Results 
 Pandas was downloaded a lot more than dplyr, tidyverse and data.table. And the growth of pandas is substantial over time. 
 
 ![](https://github.com/sophiamyang/PythonRcomparison/blob/master/figures/pandas.png)
