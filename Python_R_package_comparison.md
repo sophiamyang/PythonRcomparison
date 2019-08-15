@@ -57,10 +57,23 @@ Python and R package download comparison
 |**Visualization** |matplotlib, bokeh| | ggplot2, graphics| |
 |**Dashboard**  |panel, voila| | shiny| |
 
+### Data
+I retrieved package download data from Conda, PyPI, and Cran from Janurary 2018 to July 2018. Then I combined Conda and PyPI downloads to represent total downloads of Python packages. 
+
+### Result 
+Pandas was downloaded a lot more than dplyr, tidyverse and data.table. And the growth of pandas is substantial over time. 
 ![](https://github.com/sophiamyang/PythonRcomparison/blob/master/figures/pandas.png)
+
+scikit-learn is used a lot more than statsmodels in Python, caret in R, and e1071 in R.  
 ![](https://github.com/sophiamyang/PythonRcomparison/blob/master/figures/sklearn.png)
+
+Most people use Keras and Tensorflow in Python, few use them in R. 
 ![](https://github.com/sophiamyang/PythonRcomparison/blob/master/figures/keras.png)
+
+People use matplotlib a lot. ggplot2 is as popular as Bokeh. 
 ![](https://github.com/sophiamyang/PythonRcomparison/blob/master/figures/plot.png)
+
+For creating dashboard, most people use Shiny. Few use Panel and Voila. 
 ![](https://github.com/sophiamyang/PythonRcomparison/blob/master/figures/dashboard.png)
 
 #### References
