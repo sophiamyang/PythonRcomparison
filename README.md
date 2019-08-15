@@ -1,7 +1,8 @@
 Python and R package download comparison
 ---
 
-### R package download data
+### Data Source
+#### R package download data
 - CRAN package download logs
   - http://cran-logs.rstudio.com/
   - e.g., https://www.r-bloggers.com/finally-tracking-cran-packages-downloads/
@@ -12,14 +13,14 @@ Python and R package download comparison
   - access through R package `canlogs`: https://github.com/r-hub/cranlogs
 - Python package `cranlogs`
   - https://cranlogs.readthedocs.io/en/latest/cran_downloads.html
-### Python package download data
+#### Python package download data
 - Pypi data:
     - https://packaging.python.org/guides/analyzing-pypi-package-downloads/
     - https://github.com/ofek/pypinfo#installation
 - Conda data:
     - https://github.com/ContinuumIO/anaconda-package-data
 
-### Python & R package comparison
+### Python & R Package Comparison
 
 | Purpose  | Python package  | Python function  | R package  |R function|
 | -------- | -------- | -------- | -------- | -------- |
@@ -84,7 +85,7 @@ For creating dashboard, most people use Shiny. Few use Panel and Voila.
 ### Conclusion
 Except for creating dashboard, more people seem use Python than R for data manipulation, visualization, machine learning, and deep learning. 
 
-#### References
+### References
 https://r4ds.had.co.nz/ <br />
 https://lgatto.github.io/IntroMachineLearningWithR/<br />
 https://topepo.github.io/caret/index.html <br />
