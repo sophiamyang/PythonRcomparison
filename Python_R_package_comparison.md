@@ -9,7 +9,7 @@ Python and R package download comparison
   - https://cranlogs.r-pkg.org/
   - JSON API: https://github.com/r-hub/cranlogs.app
   - e.g., https://cranlogs.r-pkg.org/downloads/total/2014-01-01:2014-12-31/ggplot2
-  - access through `canlogs`: https://github.com/r-hub/cranlogs
+  - access through R package `canlogs`: https://github.com/r-hub/cranlogs
 - Python package `cranlogs`
   - https://cranlogs.readthedocs.io/en/latest/cran_downloads.html
 ### Python package download data
