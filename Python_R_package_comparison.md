@@ -5,12 +5,13 @@ Python and R package download comparison
 - CRAN package download logs
   - http://cran-logs.rstudio.com/
   - e.g., https://www.r-bloggers.com/finally-tracking-cran-packages-downloads/
-- Download stats API: 
+- Download stats API in R: 
   - https://cranlogs.r-pkg.org/
   - JSON API: https://github.com/r-hub/cranlogs.app
   - e.g., https://cranlogs.r-pkg.org/downloads/total/2014-01-01:2014-12-31/ggplot2
-  - access through `canlogs`: https://github.com/r-hub/cranlogs
-
+  - access through R package `canlogs`: https://github.com/r-hub/cranlogs
+- Python package `cranlogs`
+  - https://cranlogs.readthedocs.io/en/latest/cran_downloads.html
 ### Python package download data
 - Pypi data:
     - https://packaging.python.org/guides/analyzing-pypi-package-downloads/
@@ -29,9 +30,8 @@ Python and R package download comparison
 | |xml | xml.etree.ElementTree.parse  | XML| xmlparse|
 |**Data processing** |pandas | apply, map| purrr| map|
 ||pandas | apply, map| plyr| apply functions, e.g., aaply|
-| |pandas | loc, sort_values, aggregate, groupby | dplyr|filter,arrange,select, mutate, summarise,groupby |
+| |pandas | loc, sort_values, aggregate, groupby, merge | dplyr, data.table|filter, arrange, select, mutate, summarise, groupby, join |
 | |pandas | pivot, melt, stack, unstack, groupby| tidyr|gather, spead |
-| |pandas | merge| plrr|join |
 | |pandas | .| magrittr|%>% |
 | |pandas | | tidyverse|combined packages|
 || datetime| | lubridate, hms| |
