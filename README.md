@@ -50,8 +50,8 @@ Python and R package download comparison
 |Decision Trees |sklearn|tree |rpart |rpart() |
 |Random forest |sklearn.ensemble|RandomForestClassifier |randomForest |randomForest() |
 |Gradient boosting |xgboost| |xgboost| |
-|a collection of models (Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier,...) |scipy, numpy, sklearn| |e1071||
-|a set of functions that attempt to streamline the process for creating predictive models|sklearn| |caret| |
+|e1071 is a collection of models (Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier,...) |scipy, numpy, sklearn| |e1071||
+|caret is a set of functions that attempt to streamline the process for creating predictive models|sklearn| |caret| |
 |network analysis|networkx| |igraph| |
 |**Deep learning**|keras, tensorflow| |keras, tensorflow| |
 |**Visualization** |matplotlib, bokeh| | ggplot2, graphics| |
