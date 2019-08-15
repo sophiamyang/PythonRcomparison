@@ -66,7 +66,7 @@ Pandas was downloaded a lot more than dplyr, tidyverse and data.table. And the g
 
 ![](https://github.com/sophiamyang/PythonRcomparison/blob/master/figures/pandas.png)
 
-scikit-learn is used a lot more than statsmodels in Python, caret in R, and e1071 in R.  
+scikit-learn is downloaded a lot more than statsmodels in Python, caret in R, and e1071 in R.  
 
 ![](https://github.com/sophiamyang/PythonRcomparison/blob/master/figures/sklearn.png)
 
@@ -83,7 +83,7 @@ For creating dashboard, most people use Shiny. Few use Panel and Voila.
 ![](https://github.com/sophiamyang/PythonRcomparison/blob/master/figures/dashboard.png)
 
 ### Conclusion
-Except for creating dashboard, more people seem use Python than R for data manipulation, visualization, machine learning, and deep learning. 
+Except for creating dashboard, people seem to download more Python packages than R packages for data manipulation, visualization, machine learning, and deep learning. 
 
 ### References
 https://r4ds.had.co.nz/ <br />
