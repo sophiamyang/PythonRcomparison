@@ -34,7 +34,7 @@ Python and R package download comparison
 | |pandas | loc, sort_values, aggregate, groupby, merge | dplyr, data.table|filter, arrange, select, mutate, summarise, groupby, join |
 | |pandas | pivot, melt, stack, unstack, groupby| tidyr|gather, spead |
 | |pandas | .| magrittr|%>% |
-| |pandas | | tidyverse|combined packages|
+| |pandas, matplotlib | | tidyverse|a set of packages that include ggplot2, dplyr, tidyr, readr, purrr, tibble, stringr, and forcats|
 || datetime| | lubridate, hms| |
 |**Models** || |||
 |Linear models|sklearn.linear_model, statsmodels| |stats | lm()|
@@ -51,8 +51,8 @@ Python and R package download comparison
 |Decision Trees |sklearn|tree |rpart |rpart() |
 |Random forest |sklearn.ensemble|RandomForestClassifier |randomForest |randomForest() |
 |Gradient boosting |xgboost| |xgboost| |
-|e1071 is a collection of models (Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier,...) |scipy, numpy, sklearn| |e1071||
-|caret is a set of functions that attempt to streamline the process for creating predictive models|sklearn| |caret| |
+|other|scipy, numpy, sklearn| |e1071|collection of models (Functions for latent class analysis, short time Fourier transform, fuzzy clustering, support vector machines, shortest path computation, bagged clustering, naive Bayes classifier,...)|
+|other|sklearn| |caret|caret is a set of functions that attempt to streamline the process for creating predictive models|
 |network analysis|networkx| |igraph| |
 |**Deep learning**|keras, tensorflow| |keras, tensorflow| |
 |**Visualization** |matplotlib, bokeh| | ggplot2, graphics| |
