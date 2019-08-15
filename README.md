@@ -1,7 +1,7 @@
 Python and R package download comparison
 ---
 
-### Data Source
+### Data source
 #### R package download data
 - CRAN package download logs
   - http://cran-logs.rstudio.com/
@@ -20,7 +20,7 @@ Python and R package download comparison
 - Conda data:
     - https://github.com/ContinuumIO/anaconda-package-data
 
-### Python & R Package Comparison
+### Python & R package comparison
 
 | Purpose  | Python package  | Python function  | R package  |R function|
 | -------- | -------- | -------- | -------- | -------- |
