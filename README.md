@@ -45,6 +45,7 @@ Python and R package download comparison
 |Penalised linear models |glmnet| |glmnet |glmnet() |
 |Robust linear models |statsmodels|RLM |MASS |rlm() |
 |Linear Mixed-Effects Models |stasmodels|mixedlm|lme4, lmerTest | |
+|Structural eqation modeling |semopy||lavaan | |
 |k-means |sklearn.cluster|KMeans |stats|kmeans |
 |PCA |sklearn.decomposition|PCA |stats|prcomp |
 |t-SNE|sklearn.manifold|TSNE|Rtsne|Rtsne|
