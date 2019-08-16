@@ -88,7 +88,7 @@ For creating dashboard, most people use Shiny. Few use Panel and Voila.
 Except for creating dashboard, people seem to download a lot more Python packages than R packages for data manipulation, visualization, machine learning, and deep learning. 
 
 ### Note! 
-Python package download numbers are inflated for the following reasons:
+Python package download numbers can be inflated for the following reasons:
 - CI systems: conda data has screened out some CI systems, however, PyPI has not. A lot of the downloads from PyPI could be coming from CI systems. And R might have a lot less downloads from CI systems. 
 - Environments: Python users might be more likely to manage multiple environment and install packages in various environment. However, R users might just use one environment. 
 - Packaging updates: R users might not update packages as often as Python users. 
